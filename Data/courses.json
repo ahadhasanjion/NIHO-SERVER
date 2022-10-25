@@ -43,7 +43,7 @@
         "category_id": "06",
         "title": "Swift",
         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png",
-        "details": "Swift language has come on 2 June 2014. Swift is a modern language powerful and developer-friendly programing language. It was developed by Apple Inc for use of apple products like ipads ios tv and it also supports multiple devices. It is a language in which we can code easily to compile and run.Swift was designed for Apple products like Apple cocoa and Cocoa touch frameworks. Objective C C++ language code also runs in a swift language. Swift is an open-source language and built with an open LLVM compiler.
+        "details": "Swift language has come on 2 June 2014. Swift is a modern language powerful and developer-friendly programing language. It was developed by Apple Inc for use of apple products like ipads ios tv and it also supports multiple devices. It is a language in which we can code easily to compile and run. Swift was designed for Apple products like Apple cocoa and Cocoa touch frameworks. Objective C C++ language code also runs in a swift language. Swift is an open-source language and built with an open LLVM compiler.
         Apples worldwide developer conference announces swift language on June 2 2014 Swift is powerful easy to code open-source languages were started in 2010 by Chris Lattner and its teammates Doug Gregor John McCall.The swift idea is taken from many languages like python ruby or c language."
     }
 ]
