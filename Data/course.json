@@ -1,0 +1,63 @@
+[
+    
+    {
+        "_id": "01",
+        "name": "c++",
+        "category_id": "01",
+        "title": "About C++",
+        "Enroll":"306",
+        "price": "60$",
+        "image_url": "https://i.ibb.co/RpfkPR9/c-language-2.png",
+        "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory."
+    },
+    {
+        "_id": "02",
+        "name": "C",
+        "category_id": "02",
+        "title": "About C",
+        "Enroll":"300",
+        "price": "40$",
+        "image_url": "https://i.ibb.co/mzPZWsK/c-language-2.png",
+        "details": "The C programming language was first released in 1972, making it one of the oldest still used today. The language is in everything you do since most modern operating systems are implemented with C code, as is the main version of Python (called CPython). Get started learning C fundamentals to become a better programmer in any field of computer science."
+    },
+    {
+        "_id": "03",
+        "name": "Python",
+        "category_id": "03",
+        "title": "About Python",
+        "Enroll":"350",
+        "price": "30$",
+        "image_url": "https://i.ibb.co/WvgPb6T/wallpaperflare-com-wallpaper.jpg",
+        "details": "Python is a general-purpose, versatile and popular programming language. It’s great as a first language because it is concise and easy to read, and it is also a good language to have in any programmer’s stack as it can be used for everything from web development to software development and scientific applications."
+    },
+    {
+        "_id": "04",
+        "name": "About Java",
+        "category_id": "04",
+        "title": "About Java",
+        "Enroll":"376",
+        "price": "35$",
+        "image_url": "https://i.ibb.co/yym1SPY/wallpaperflare-com-wallpaper-1.jpg",
+        "details": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects."
+    },
+    {
+        "_id": "05",
+        "name": "Php",
+        "category_id": "05",
+        "title": " About Php",
+        "Enroll":"256",
+        "price": "$55",
+        "image_url": "https://i.ibb.co/j6YT7Zk/php-language-2.png",
+        "details": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP."
+    },
+    {
+        "_id": "06",
+        "name": "Swift",
+        "category_id": "06",
+        "title": "About Swift",
+        "Enroll":"206",
+        "price": "55$",
+        "image_url":"https://i.ibb.co/k3VFnNf/swift-language-2.png",
+        "details": "Swift is a powerful programming language that is easy and also fun to learn. Its code is safe by design, yet also produces software that runs lightning-fast. It is used to build apps for iOS, watchOS, macOS, tvOS, and Linux.his course will start with the fundamental programming concepts before digging deeper into the more advanced Swift topics. You will build everything from a Magic 8-Ball to a Caesar Cipher."
+    }
+]
